@@ -1,0 +1,13 @@
+a
+Email Opened:
+Timestamp: 2024-06-12 15:52:48
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0
+IP Address: 
+Email Opened:
+Timestamp: 2024-06-12 15:52:50
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0
+IP Address: 
+Email Opened:
+Timestamp: 2024-06-12 15:54:59
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0
+IP Address: 
